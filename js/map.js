@@ -131,7 +131,7 @@ function initMap() {
 
     P7.streetView = function (lat, lon) {
         P7.streetView.url = "https://maps.googleapis.com/maps/api/streetview?size=300x200&location=" + lat + "," + lon +
-            "&key=AIzaSyDM2OK107ZuM8p5Q-8XalzcsopxoC55AAA";
+            "&key=YOURKEY";
         return P7.streetView.url;
     }
 
