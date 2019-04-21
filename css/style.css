@@ -1,0 +1,69 @@
+.row{
+    text-align: center;
+}
+#header{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    margin: 25px;
+    justify-content: center
+}
+#btnformFiltre{
+    margin-left: 10px;
+}
+.pHeader{
+    text-align: left;
+}
+#map{
+
+  margin-left: auto;
+  margin-right: auto;
+    height: 100vh;
+
+}
+.sectionList{
+    padding: 0px;
+}
+
+@media screen and (max-width: 640px) {
+  .sectionList{
+   display:none;
+   
+  }
+}
+
+
+.ListMaps, .listJSON {
+
+    border-radius: 10px;
+
+}
+.listJSON {
+    background-color: #FC5656;
+}
+
+.ListMaps{
+    background-color: #AFD1F0;
+}
+
+.listStar, .starComment{
+color:  gold;
+}
+
+.head{
+    padding-top: 15px;
+    
+}
+
+#filtreResto{
+    margin-right: 20px;
+}
+
+
+img{
+   margin: 10px;
+ margin-right: 10px;
+}
+
+#closeMdl{
+   margin-right: 10px
+}

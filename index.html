@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+
+    <div class="container-fluid" id="containerFluid">
+
+        <div class="row" id="header">
+
+            <div id="filtreResto" class="row-md-2 row-xs-6 headComposant"></div>
+
+            <div id="placessearch" class="row-md-2 row-xs-6 headerComposant">
+
+                <p class="pHeader">Rechercher un nouveau restaurant: clic droit</p>
+                <p class="pHeader">Ajouter un nouveau restaurant: clic simple</p>
+
+            </div>
+
+
+        </div>
+
+
+        <div class="row" id="section">
+
+            <div class="col-xs-12 col-md-2 sectionList">
+                <div id="List" class="col"></div>
+                <div id="ListPlace" class="col"></div>
+            </div>
+
+            <div id="map" class="col-10 col-xs-12"></div>
+
+        </div>
+
+    </div>
+
+    <script src="js/ajax.js"></script>
+    <script src="js/filtre.js"></script>
+    <script src="js/addNewResto.js"></script>
+    <script src="js/modalComment.js"></script>
+    <script src="js/modal.js"></script>
+    <script src="js/List.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/map.js"></script>
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDM2OK107ZuM8p5Q-8XalzcsopxoC55AAA&libraries=places&&callback=initMap"></script>
+
+</body>
+
+</html>

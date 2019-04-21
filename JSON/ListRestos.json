@@ -1,0 +1,90 @@
+[
+    {
+        "restaurantName": "Bronco",
+        "address": "39 Rue des Petites Écuries, 75010 Paris",
+        "lat": 48.8737815,
+        "long": 2.3501649,
+        "ratings": [
+            {
+                "stars": 4,
+                "comment": "Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+         },
+            {
+                "stars": 5,
+                "comment": "Tout simplement mon restaurant préféré !"
+         }
+      ]
+   },
+
+    {
+        "restaurantName": "Babalou",
+        "address": "4 Rue Lamarck, 75018 Paris",
+        "lat": 48.8865035,
+        "long": 2.3442197,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+         },
+            {
+                "stars": 3,
+                "comment": "J'ai trouvé ça correct, sans plus"
+         }
+      ]
+   },
+    
+    {
+        "restaurantName": "Tata burger",
+        "address": "54 rue Sainte Croix de la Bretonnerie, 75004 Paris",
+        "lat": 48.85903949999999,
+        "long": 2.3539892999999665,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "magic"
+         },
+            {
+                "stars": 3,
+                "comment": "J'ai trouvé ça correct, sans plus"
+         }
+      ]
+   },
+    
+    {
+        "restaurantName": "Aloha Café",
+        "address": "32 Rue Pierre Fontaine, 75009 Paris",
+        "lat": 48.88256990000001,
+        "long": 2.3335956999999325,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "magic"
+         },
+            {
+                "stars": 3,  
+                "comment": "je m'en leche les papilles"
+         },
+             {
+                "stars": 3,  
+                "comment": "oh my god!!!!!!!!!! so goooooooooooooddddddd!!!!!"
+         }
+      ]
+   },
+    
+    {
+        "restaurantName": "Razowski",
+        "address": "38 Place du Marché Saint-Honoré, 75001 Paris",
+        "lat": 48.8672632,
+        "long": 2.3326121000000057,
+        "ratings": [
+            {
+                "stars": 5,
+                "comment": "éclatage de bide téllement c'est bon^^!"
+         },
+            {
+                "stars": 5,
+                "comment": "bistro gastro!"
+         }
+      ]
+   }
+]
